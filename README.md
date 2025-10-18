@@ -4,6 +4,7 @@ It focuses on extracting, cleaning, and visualizing historical stock and revenue
 The final result is an interactive dashboard that shows both stock price trends and company revenue growth over time.
 
 🚀 Project Overview:
+
 In this project, I used:
 yfinance → to download historical stock data from Yahoo Finance
 BeautifulSoup → to scrape revenue data from HTML pages
